@@ -1,2 +1,2 @@
 # sn-testing
-servicenow test app
+sn-utils
